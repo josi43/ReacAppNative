@@ -1,2 +1,2 @@
 # ReacAppNative
-meu aplicativo react de academia
+Aplicativo em react native para gerenciar meu progresso na academia.
